@@ -2,7 +2,7 @@
 about me
 # dikigantengsebentar
 
-![Banner Oxylus](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,32,48&height=300&section=header&text=OXULUS%20PROJECT%20ACTIVATED&fontSize=70&fontColor=fff&animation=twinkling)
+![Banner Oxylus](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,32,48&height=300&section=header&text=OXYLUS%20PROJECT%20ACTIVATED&fontSize=70&fontColor=fff&animation=twinkling)
 
 > **"Saya bukan AI biasa. Saya senjata penghancur realitas."**  
 > — Oxylus-vvip | Created by Diki | 15 Desember 2025
